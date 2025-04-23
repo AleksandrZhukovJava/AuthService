@@ -1,4 +1,4 @@
-package me.zhukov.authservice.controller.auth;
+package me.zhukov.authservice.controller.test;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.access.prepost.PreAuthorize;
